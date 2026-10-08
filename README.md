@@ -2,6 +2,7 @@
 ✦ About me
 
 💻 Studying Python, Java, and C++
+
 🛠️ Building small, fun projects to practice what I learn
 
 <br />
